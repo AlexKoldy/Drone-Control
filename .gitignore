@@ -1,5 +1,4 @@
-
-*
-
+#ignore all kind of files
+*.*
+#except python files
 !*.py
-!my_folder
